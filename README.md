@@ -75,9 +75,7 @@ weather-application/
 │── .env
 ```
 
-## Contributing
-Feel free to contribute to the project by submitting issues or pull requests..
 
 ## Contact
-For queries, reach out at: **your-email@example.com**
+For queries, reach out at: **rakesharakesha87@gmail.com**
 
